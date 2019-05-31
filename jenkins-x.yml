@@ -1,1 +1,1 @@
-buildPack: dropwizard
+buildPack: maven 
