@@ -16,8 +16,8 @@ pipelineConfig:
               containerOptions:
                 resources:
                   limits:
-                    cpu: 4
-                    memory: 6144Mi
-                  requests:
                     cpu: 3
-                    memory: 3072Mi
+                    memory: 4000Mi
+                  requests:
+                    cpu: 2
+                    memory: 2000Mi
